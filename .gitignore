@@ -8,3 +8,5 @@ settings.toml
 test/signature_*
 # Ignore all .pyc files
 *.pyc
+# Ignore log files
+*.log
