@@ -1,0 +1,12 @@
+# Ignore dynaconf secret files
+.secrets.*
+# Ignore config/keys/*.pem files
+config/keys/*.pem
+# Ignore settings.toml file
+settings.toml
+# Ignore test/signature_* files
+test/signature_*
+# Ignore all .pyc files
+*.pyc
+# Ignore log files
+*.log

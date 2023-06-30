@@ -1,0 +1,9 @@
+# 这是一个配置文件范本，请填写后保存为settings.toml
+domain = "你的域名，包括子域名"
+user_name = "你的用户名"
+user_display_name = "你的显示名"
+user_summary = "你的简介"
+user_avatar_url = "你的头像图片链接"
+
+inbox_log_pth = "all_inbox.log"
+timeline_log_pth = "timeline.log"
