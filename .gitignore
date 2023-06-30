@@ -9,4 +9,5 @@ test/signature_*
 # Ignore all .pyc files
 *.pyc
 # Ignore log files
-*.log
+all_inbox.log
+timeline.log
