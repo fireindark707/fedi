@@ -11,3 +11,5 @@ test/signature_*
 # Ignore log files
 all_inbox.log
 timeline.log
+# Ignore archive directory
+archive/
