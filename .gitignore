@@ -1,7 +1,7 @@
 # Ignore dynaconf secret files
 .secrets.*
-# Ignore config/keys/* files
-config/keys/*
+# Ignore config/keys/*.pem files
+config/keys/*.pem
 # Ignore settings.toml file
 settings.toml
 # Ignore test/signature_* files
